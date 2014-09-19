@@ -1,0 +1,10 @@
+---
+layout: default
+date: 2014-09-20
+category: news
+description: This is a test post
+---
+
+Lorem ipsum dolor sit amet, sed at vidisse tractatos. Et liber omnes mea. Fabulas appetere sed et, putant interesset eu mel. Vel falli abhorreant elaboraret et, regione mandamus dissentiet est eu, delectus voluptatum no eam. Pri eu aeque postulant.
+
+Nominavi electram ea eam, an tractatos periculis eum, qui eu wisi mazim. Has congue temporibus te. Dolorem minimum sapientem qui an, eius corrumpit percipitur in est, scaevola voluptatum constituam at mei. Sit an sint nibh salutatus, nihil dictas iriure ad sea, has impetus alterum ea. Has in placerat percipit adolescens.
